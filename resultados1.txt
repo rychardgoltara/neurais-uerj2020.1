@@ -1,0 +1,1632 @@
+
+Learning on dataset ['COVID-19']
+ Epochs = 5000, repeats = 5, Neur = 10, Batch = 500 activation = relu
+---------------------------------------
+Training a arquitetura: 1 sgd constant learning-rate with momentum=0.8 lear_init =0.4 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.6702 
+recall score: 0.7254 
+precision score: 0.6710 
+f1 score: 0.6932 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6769 
+recall score: 0.7118 
+precision score: 0.6792 
+f1 score: 0.6942 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6819 
+recall score: 0.6939 
+precision score: 0.6946 
+f1 score: 0.6920 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6737 
+recall score: 0.7234 
+precision score: 0.6714 
+f1 score: 0.6958 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6776 
+recall score: 0.7596 
+precision score: 0.6648 
+f1 score: 0.7080 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6744 
+recall score: 0.6939 
+precision score: 0.6817 
+f1 score: 0.6869 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6786 
+recall score: 0.7505 
+precision score: 0.6693 
+f1 score: 0.7069 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6756 
+recall score: 0.7399 
+precision score: 0.6697 
+f1 score: 0.7020 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6779 
+recall score: 0.6861 
+precision score: 0.6894 
+f1 score: 0.6872 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6774 
+recall score: 0.7089 
+precision score: 0.6814 
+f1 score: 0.6937 
+
+---------------------------------------Training a arquitetura: 2 sgd constant learning-rate with momentum=0.9 lear_init =0.5 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6781 
+recall score: 0.7138 
+precision score: 0.6819 
+f1 score: 0.6949 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6811 
+recall score: 0.7074 
+precision score: 0.6892 
+f1 score: 0.6955 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6687 
+recall score: 0.7268 
+precision score: 0.6651 
+f1 score: 0.6937 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6801 
+recall score: 0.7306 
+precision score: 0.6781 
+f1 score: 0.7024 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6769 
+recall score: 0.7065 
+precision score: 0.6809 
+f1 score: 0.6927 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6764 
+recall score: 0.7398 
+precision score: 0.6694 
+f1 score: 0.7024 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6709 
+recall score: 0.7432 
+precision score: 0.6614 
+f1 score: 0.6995 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6737 
+recall score: 0.6982 
+precision score: 0.6785 
+f1 score: 0.6874 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6722 
+recall score: 0.7181 
+precision score: 0.6717 
+f1 score: 0.6932 
+
+---------------------------------------Training a arquitetura: 3 sgd adaptative learning-rate with momentum=0.9 lear_init =0.4 nesterovs = True 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6804 
+recall score: 0.7210 
+precision score: 0.6819 
+f1 score: 0.6997 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6796 
+recall score: 0.6983 
+precision score: 0.6897 
+f1 score: 0.6919 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6727 
+recall score: 0.7302 
+precision score: 0.6700 
+f1 score: 0.6970 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6799 
+recall score: 0.7417 
+precision score: 0.6734 
+f1 score: 0.7048 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6804 
+recall score: 0.7074 
+precision score: 0.6847 
+f1 score: 0.6955 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6794 
+recall score: 0.7234 
+precision score: 0.6784 
+f1 score: 0.6996 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6796 
+recall score: 0.7495 
+precision score: 0.6693 
+f1 score: 0.7070 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6814 
+recall score: 0.7079 
+precision score: 0.6856 
+f1 score: 0.6961 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6751 
+recall score: 0.7161 
+precision score: 0.6760 
+f1 score: 0.6942 
+
+---------------------------------------Training a arquitetura: 4 sgd invscaling learning-rate with momentum=0 lear_init =0.4  
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6335 
+recall score: 0.5910 
+precision score: 0.6634 
+f1 score: 0.6234 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.4948 
+recall score: 0.7345 
+precision score: 0.5068 
+f1 score: 0.5995 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6257 
+recall score: 0.7157 
+precision score: 0.6202 
+f1 score: 0.6639 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6003 
+recall score: 0.6523 
+precision score: 0.6051 
+f1 score: 0.6276 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.5477 
+recall score: 0.7123 
+precision score: 0.5475 
+f1 score: 0.6190 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6252 
+recall score: 0.6693 
+precision score: 0.6294 
+f1 score: 0.6484 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.5519 
+recall score: 0.7843 
+precision score: 0.5462 
+f1 score: 0.6438 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.5344 
+recall score: 0.7253 
+precision score: 0.5362 
+f1 score: 0.6162 
+
+---------------------------------------Training a arquitetura: 5 sgd invscaling learning-rate with momentum=0.9 lear_init =0.4 nesterovs = True 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.4840 
+recall score: 0.0000 
+precision score: 0.0000 
+f1 score: 0.0000 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6689 
+recall score: 0.6499 
+precision score: 0.6923 
+f1 score: 0.6690 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.4830 
+recall score: 0.0000 
+precision score: 0.0000 
+f1 score: 0.0000 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6475 
+recall score: 0.6851 
+precision score: 0.6493 
+f1 score: 0.6662 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6689 
+recall score: 0.7079 
+precision score: 0.6708 
+f1 score: 0.6883 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6599 
+recall score: 0.6663 
+precision score: 0.6721 
+f1 score: 0.6677 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6462 
+recall score: 0.6696 
+precision score: 0.6562 
+f1 score: 0.6601 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6707 
+recall score: 0.6784 
+precision score: 0.6827 
+f1 score: 0.6800 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6135 
+recall score: 0.8442 
+precision score: 0.5885 
+f1 score: 0.6923 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6612 
+recall score: 0.7210 
+precision score: 0.6569 
+f1 score: 0.6872 
+
+---------------------------------------Training a arquitetura: 6 sgd invscaling learning-rate with momentum=0.9 lear_init =0.5 nesterovs = True 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.4840 
+recall score: 0.0000 
+precision score: 0.0000 
+f1 score: 0.0000 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6589 
+recall score: 0.5977 
+precision score: 0.6990 
+f1 score: 0.6432 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.5100 
+recall score: 0.2824 
+precision score: 0.4248 
+f1 score: 0.3003 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6564 
+recall score: 0.6605 
+precision score: 0.6695 
+f1 score: 0.6648 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6694 
+recall score: 0.7200 
+precision score: 0.6677 
+f1 score: 0.6923 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6659 
+recall score: 0.6726 
+precision score: 0.6780 
+f1 score: 0.6743 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6452 
+recall score: 0.6716 
+precision score: 0.6532 
+f1 score: 0.6614 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6687 
+recall score: 0.6827 
+precision score: 0.6787 
+f1 score: 0.6801 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.5996 
+recall score: 0.5614 
+precision score: 0.6253 
+f1 score: 0.5894 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6667 
+recall score: 0.7132 
+precision score: 0.6658 
+f1 score: 0.6884 
+
+---------------------------------------Training a arquitetura: 7 adam rate_init=0.01 beta_1=0.85  beta_2=0.9 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6771 
+recall score: 0.6925 
+precision score: 0.6859 
+f1 score: 0.6883 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6400 
+recall score: 0.7675 
+precision score: 0.6504 
+f1 score: 0.6885 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6796 
+recall score: 0.7229 
+precision score: 0.6797 
+f1 score: 0.6998 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6747 
+recall score: 0.7268 
+precision score: 0.6725 
+f1 score: 0.6979 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6811 
+recall score: 0.7113 
+precision score: 0.6852 
+f1 score: 0.6974 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6819 
+recall score: 0.7002 
+precision score: 0.6899 
+f1 score: 0.6943 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6769 
+recall score: 0.7026 
+precision score: 0.6828 
+f1 score: 0.6918 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6702 
+recall score: 0.7002 
+precision score: 0.6750 
+f1 score: 0.6865 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6804 
+recall score: 0.7166 
+precision score: 0.6824 
+f1 score: 0.6981 
+
+---------------------------------------Training a arquitetura: 8 adam rate_init=0.02  beta_1=0.85  beta_2=0.9 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6732 
+recall score: 0.6813 
+precision score: 0.6858 
+f1 score: 0.6821 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6786 
+recall score: 0.6973 
+precision score: 0.6866 
+f1 score: 0.6913 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6717 
+recall score: 0.7234 
+precision score: 0.6690 
+f1 score: 0.6947 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6776 
+recall score: 0.7321 
+precision score: 0.6739 
+f1 score: 0.7011 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6821 
+recall score: 0.7060 
+precision score: 0.6890 
+f1 score: 0.6962 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6766 
+recall score: 0.7142 
+precision score: 0.6785 
+f1 score: 0.6950 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6769 
+recall score: 0.7123 
+precision score: 0.6793 
+f1 score: 0.6948 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6747 
+recall score: 0.7055 
+precision score: 0.6779 
+f1 score: 0.6906 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6809 
+recall score: 0.7122 
+precision score: 0.6836 
+f1 score: 0.6969 
+
+---------------------------------------Training a arquitetura: 9 adam rate_init=0.05 epsilon=0.00001 beta_1=0.9  beta_2=0.99 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6811 
+recall score: 0.6968 
+precision score: 0.6908 
+f1 score: 0.6927 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6742 
+recall score: 0.7399 
+precision score: 0.6668 
+f1 score: 0.7010 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6779 
+recall score: 0.7355 
+precision score: 0.6744 
+f1 score: 0.7021 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6796 
+recall score: 0.7239 
+precision score: 0.6804 
+f1 score: 0.6999 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6791 
+recall score: 0.7403 
+precision score: 0.6724 
+f1 score: 0.7041 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6794 
+recall score: 0.7297 
+precision score: 0.6763 
+f1 score: 0.7016 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6739 
+recall score: 0.7321 
+precision score: 0.6694 
+f1 score: 0.6985 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6791 
+recall score: 0.7234 
+precision score: 0.6794 
+f1 score: 0.6997 
+
+---------------------------------------Training a arquitetura: 10 adam rate_init=0.2 epsilon=0.01 beta_1=0.7  beta_2=0.9 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5157 
+recall score: 0.9995 
+precision score: 0.5158 
+f1 score: 0.6805 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6774 
+recall score: 0.7147 
+precision score: 0.6799 
+f1 score: 0.6956 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6297 
+recall score: 0.8211 
+precision score: 0.6360 
+f1 score: 0.6982 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6734 
+recall score: 0.7485 
+precision score: 0.6643 
+f1 score: 0.7030 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6771 
+recall score: 0.7249 
+precision score: 0.6776 
+f1 score: 0.6982 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6779 
+recall score: 0.7249 
+precision score: 0.6803 
+f1 score: 0.6986 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6742 
+recall score: 0.7370 
+precision score: 0.6698 
+f1 score: 0.6995 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6776 
+recall score: 0.7427 
+precision score: 0.6688 
+f1 score: 0.7033 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6764 
+recall score: 0.6856 
+precision score: 0.6915 
+f1 score: 0.6854 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6756 
+recall score: 0.7418 
+precision score: 0.6668 
+f1 score: 0.7019 
+
+---------------------------------------Training a arquitetura: 11 sgd constant learning-rate with momentum=0.7 lear_init =0.2 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.6679 
+recall score: 0.7167 
+precision score: 0.6693 
+f1 score: 0.6902 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6729 
+recall score: 0.6934 
+precision score: 0.6803 
+f1 score: 0.6857 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6829 
+recall score: 0.6876 
+precision score: 0.6969 
+f1 score: 0.6908 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6769 
+recall score: 0.7050 
+precision score: 0.6824 
+f1 score: 0.6925 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6747 
+recall score: 0.7215 
+precision score: 0.6734 
+f1 score: 0.6959 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6816 
+recall score: 0.7089 
+precision score: 0.6871 
+f1 score: 0.6969 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6771 
+recall score: 0.7268 
+precision score: 0.6754 
+f1 score: 0.6993 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6761 
+recall score: 0.7253 
+precision score: 0.6738 
+f1 score: 0.6978 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6801 
+recall score: 0.7021 
+precision score: 0.6872 
+f1 score: 0.6936 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6766 
+recall score: 0.7253 
+precision score: 0.6757 
+f1 score: 0.6982 
+
+---------------------------------------Training a arquitetura: 12 sgd adaptative learning-rate with momentum=0.5 lear_init =0.1 nesterovs = True 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5526 
+recall score: 0.9445 
+precision score: 0.5430 
+f1 score: 0.6852 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6776 
+recall score: 0.6920 
+precision score: 0.6869 
+f1 score: 0.6888 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6751 
+recall score: 0.6808 
+precision score: 0.6881 
+f1 score: 0.6838 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6786 
+recall score: 0.7224 
+precision score: 0.6770 
+f1 score: 0.6987 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6687 
+recall score: 0.7045 
+precision score: 0.6716 
+f1 score: 0.6871 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6784 
+recall score: 0.6954 
+precision score: 0.6872 
+f1 score: 0.6906 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6724 
+recall score: 0.7108 
+precision score: 0.6745 
+f1 score: 0.6914 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6729 
+recall score: 0.6905 
+precision score: 0.6817 
+f1 score: 0.6854 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6724 
+recall score: 0.6963 
+precision score: 0.6796 
+f1 score: 0.6870 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6784 
+recall score: 0.6896 
+precision score: 0.6889 
+f1 score: 0.6888 
+
+---------------------------------------Training a arquitetura: 13 sgd invscaling learning-rate with momentum=0.7 lear_init =0.25 nesterovs = True 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.4419 
+recall score: 0.7099 
+precision score: 0.4727 
+f1 score: 0.5674 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6457 
+recall score: 0.6132 
+precision score: 0.6735 
+f1 score: 0.6400 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.5107 
+recall score: 0.3884 
+precision score: 0.5400 
+f1 score: 0.4446 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.5230 
+recall score: 0.7548 
+precision score: 0.5262 
+f1 score: 0.6196 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6310 
+recall score: 0.7055 
+precision score: 0.6272 
+f1 score: 0.6633 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6175 
+recall score: 0.6514 
+precision score: 0.6250 
+f1 score: 0.6371 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.5629 
+recall score: 0.8423 
+precision score: 0.5499 
+f1 score: 0.6654 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6252 
+recall score: 0.7616 
+precision score: 0.6107 
+f1 score: 0.6775 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.5976 
+recall score: 0.6426 
+precision score: 0.6045 
+f1 score: 0.6222 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.5913 
+recall score: 0.8283 
+precision score: 0.5724 
+f1 score: 0.6766 
+
+
+Learning on dataset ['COVID-19']
+ Epochs = 2500, repeats = 10, Neur = 10, Batch = 300 
+---------------------------------------
+ Training a arquitetura: 1 sgd constant learning-rate with momentum=0.8 lear_init =0.4 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.6761 
+recall score: 0.7277 
+precision score: 0.6778 
+f1 score: 0.6980 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6796 
+recall score: 0.7244 
+precision score: 0.6825 
+f1 score: 0.7000 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6796 
+recall score: 0.6905 
+precision score: 0.6907 
+f1 score: 0.6898 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6749 
+recall score: 0.7215 
+precision score: 0.6748 
+f1 score: 0.6959 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6811 
+recall score: 0.7461 
+precision score: 0.6737 
+f1 score: 0.7071 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6756 
+recall score: 0.6958 
+precision score: 0.6830 
+f1 score: 0.6889 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6764 
+recall score: 0.7413 
+precision score: 0.6685 
+f1 score: 0.7028 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6759 
+recall score: 0.7578 
+precision score: 0.6637 
+f1 score: 0.7070 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6756 
+recall score: 0.6978 
+precision score: 0.6827 
+f1 score: 0.6888 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6811 
+recall score: 0.7031 
+precision score: 0.6877 
+f1 score: 0.6943 
+
+---------------------------------------
+ Training a arquitetura: 2 sgd constant learning-rate with momentum=0.9 lear_init =0.5 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6826 
+recall score: 0.7128 
+precision score: 0.6868 
+f1 score: 0.6982 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6769 
+recall score: 0.7244 
+precision score: 0.6787 
+f1 score: 0.6981 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6664 
+recall score: 0.7466 
+precision score: 0.6574 
+f1 score: 0.6978 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6801 
+recall score: 0.7359 
+precision score: 0.6760 
+f1 score: 0.7035 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6801 
+recall score: 0.7171 
+precision score: 0.6826 
+f1 score: 0.6983 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6756 
+recall score: 0.7292 
+precision score: 0.6752 
+f1 score: 0.6988 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6749 
+recall score: 0.7539 
+precision score: 0.6638 
+f1 score: 0.7054 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6794 
+recall score: 0.7287 
+precision score: 0.6763 
+f1 score: 0.7011 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6739 
+recall score: 0.7350 
+precision score: 0.6696 
+f1 score: 0.6993 
+
+---------------------------------------
+ Training a arquitetura: 3 sgd adaptative learning-rate with momentum=0.9 lear_init =0.4 nesterovs = True 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6804 
+recall score: 0.7017 
+precision score: 0.6881 
+f1 score: 0.6932 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6809 
+recall score: 0.7123 
+precision score: 0.6866 
+f1 score: 0.6969 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6789 
+recall score: 0.7282 
+precision score: 0.6770 
+f1 score: 0.7006 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6829 
+recall score: 0.7384 
+precision score: 0.6784 
+f1 score: 0.7063 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6809 
+recall score: 0.7065 
+precision score: 0.6878 
+f1 score: 0.6955 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6779 
+recall score: 0.7452 
+precision score: 0.6708 
+f1 score: 0.7050 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6776 
+recall score: 0.7481 
+precision score: 0.6685 
+f1 score: 0.7053 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6756 
+recall score: 0.7253 
+precision score: 0.6725 
+f1 score: 0.6976 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6786 
+recall score: 0.6905 
+precision score: 0.6908 
+f1 score: 0.6887 
+
+---------------------------------------
+ Training a arquitetura: 4 sgd invscaling learning-rate with momentum=0 lear_init =0.4  
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5092 
+recall score: 0.9841 
+precision score: 0.5127 
+f1 score: 0.6741 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6397 
+recall score: 0.5944 
+precision score: 0.6705 
+f1 score: 0.6283 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.5135 
+recall score: 0.7674 
+precision score: 0.5191 
+f1 score: 0.6191 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6307 
+recall score: 0.7167 
+precision score: 0.6252 
+f1 score: 0.6671 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6088 
+recall score: 0.6697 
+precision score: 0.6111 
+f1 score: 0.6386 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.5604 
+recall score: 0.7519 
+precision score: 0.5548 
+f1 score: 0.6383 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6300 
+recall score: 0.6934 
+precision score: 0.6292 
+f1 score: 0.6594 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.5888 
+recall score: 0.7742 
+precision score: 0.5762 
+f1 score: 0.6605 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.5661 
+recall score: 0.7650 
+precision score: 0.5585 
+f1 score: 0.6453 
+
+---------------------------------------
+ Training a arquitetura: 5 sgd invscaling learning-rate with momentum=0.9 lear_init =0.4 nesterovs = True 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.4840 
+recall score: 0.0000 
+precision score: 0.0000 
+f1 score: 0.0000 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6612 
+recall score: 0.6025 
+precision score: 0.7012 
+f1 score: 0.6467 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.5269 
+recall score: 0.3003 
+precision score: 0.5821 
+f1 score: 0.3947 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6584 
+recall score: 0.7471 
+precision score: 0.6462 
+f1 score: 0.6927 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6747 
+recall score: 0.7137 
+precision score: 0.6762 
+f1 score: 0.6936 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6749 
+recall score: 0.6934 
+precision score: 0.6828 
+f1 score: 0.6877 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6567 
+recall score: 0.6876 
+precision score: 0.6619 
+f1 score: 0.6739 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6761 
+recall score: 0.7317 
+precision score: 0.6715 
+f1 score: 0.6991 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6689 
+recall score: 0.7374 
+precision score: 0.6615 
+f1 score: 0.6963 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6669 
+recall score: 0.6567 
+precision score: 0.6868 
+f1 score: 0.6701 
+
+---------------------------------------
+ Training a arquitetura: 6 sgd invscaling learning-rate with momentum=0.9 lear_init =0.5 nesterovs = True 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.4840 
+recall score: 0.0000 
+precision score: 0.0000 
+f1 score: 0.0000 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6602 
+recall score: 0.5914 
+precision score: 0.7066 
+f1 score: 0.6406 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6594 
+recall score: 0.7674 
+precision score: 0.6427 
+f1 score: 0.6993 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6737 
+recall score: 0.7016 
+precision score: 0.6783 
+f1 score: 0.6893 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6759 
+recall score: 0.7118 
+precision score: 0.6779 
+f1 score: 0.6939 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6612 
+recall score: 0.6838 
+precision score: 0.6683 
+f1 score: 0.6756 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6739 
+recall score: 0.7283 
+precision score: 0.6706 
+f1 score: 0.6968 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6672 
+recall score: 0.7209 
+precision score: 0.6640 
+f1 score: 0.6906 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6682 
+recall score: 0.6827 
+precision score: 0.6807 
+f1 score: 0.6793 
+
+---------------------------------------
+ Training a arquitetura: 7 adam rate_init=0.01 beta_1=0.85  beta_2=0.9 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5419 
+recall score: 0.9653 
+precision score: 0.5437 
+f1 score: 0.6868 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6766 
+recall score: 0.6954 
+precision score: 0.6845 
+f1 score: 0.6891 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6779 
+recall score: 0.6944 
+precision score: 0.6863 
+f1 score: 0.6898 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6761 
+recall score: 0.7210 
+precision score: 0.6759 
+f1 score: 0.6969 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6751 
+recall score: 0.7268 
+precision score: 0.6739 
+f1 score: 0.6979 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6761 
+recall score: 0.7156 
+precision score: 0.6780 
+f1 score: 0.6952 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6806 
+recall score: 0.7263 
+precision score: 0.6786 
+f1 score: 0.7008 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6781 
+recall score: 0.7195 
+precision score: 0.6780 
+f1 score: 0.6977 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6799 
+recall score: 0.7287 
+precision score: 0.6771 
+f1 score: 0.7015 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6826 
+recall score: 0.7060 
+precision score: 0.6891 
+f1 score: 0.6963 
+
+---------------------------------------
+ Training a arquitetura: 8 adam rate_init=0.02  beta_1=0.85  beta_2=0.9 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6781 
+recall score: 0.7214 
+precision score: 0.6772 
+f1 score: 0.6981 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6801 
+recall score: 0.6896 
+precision score: 0.6907 
+f1 score: 0.6893 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6766 
+recall score: 0.7297 
+precision score: 0.6742 
+f1 score: 0.6999 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6801 
+recall score: 0.7422 
+precision score: 0.6733 
+f1 score: 0.7056 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6811 
+recall score: 0.7181 
+precision score: 0.6832 
+f1 score: 0.6993 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6737 
+recall score: 0.7311 
+precision score: 0.6695 
+f1 score: 0.6983 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6761 
+recall score: 0.7108 
+precision score: 0.6789 
+f1 score: 0.6934 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6769 
+recall score: 0.7224 
+precision score: 0.6758 
+f1 score: 0.6973 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6804 
+recall score: 0.7233 
+precision score: 0.6794 
+f1 score: 0.6998 
+
+---------------------------------------
+ Training a arquitetura: 9 adam rate_init=0.05 epsilon=0.00001 beta_1=0.9  beta_2=0.99 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6784 
+recall score: 0.6968 
+precision score: 0.6879 
+f1 score: 0.6908 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.5160 
+recall score: 1.0000 
+precision score: 0.5160 
+f1 score: 0.6807 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6682 
+recall score: 0.7456 
+precision score: 0.6595 
+f1 score: 0.6990 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6784 
+recall score: 0.7335 
+precision score: 0.6751 
+f1 score: 0.7021 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6839 
+recall score: 0.7277 
+precision score: 0.6836 
+f1 score: 0.7037 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6756 
+recall score: 0.7442 
+precision score: 0.6664 
+f1 score: 0.7029 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6789 
+recall score: 0.7423 
+precision score: 0.6716 
+f1 score: 0.7045 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6771 
+recall score: 0.7142 
+precision score: 0.6799 
+f1 score: 0.6952 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6811 
+recall score: 0.7204 
+precision score: 0.6808 
+f1 score: 0.6995 
+
+---------------------------------------
+ Training a arquitetura: 10 adam rate_init=0.2 epsilon=0.01 beta_1=0.7  beta_2=0.9 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5157 
+recall score: 0.9995 
+precision score: 0.5158 
+f1 score: 0.6805 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6826 
+recall score: 0.7287 
+precision score: 0.6842 
+f1 score: 0.7031 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6786 
+recall score: 0.7151 
+precision score: 0.6809 
+f1 score: 0.6961 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6784 
+recall score: 0.7369 
+precision score: 0.6738 
+f1 score: 0.7028 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6761 
+recall score: 0.7404 
+precision score: 0.6702 
+f1 score: 0.7019 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6751 
+recall score: 0.7229 
+precision score: 0.6756 
+f1 score: 0.6963 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6774 
+recall score: 0.7423 
+precision score: 0.6722 
+f1 score: 0.7038 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6814 
+recall score: 0.7423 
+precision score: 0.6784 
+f1 score: 0.7061 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6784 
+recall score: 0.7046 
+precision score: 0.6872 
+f1 score: 0.6928 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6764 
+recall score: 0.7456 
+precision score: 0.6673 
+f1 score: 0.7037 
+
+---------------------------------------
+ Training a arquitetura: 11 sgd constant learning-rate with momentum=0.7 lear_init =0.2 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.6624 
+recall score: 0.7051 
+precision score: 0.6660 
+f1 score: 0.6825 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6759 
+recall score: 0.6997 
+precision score: 0.6820 
+f1 score: 0.6895 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6779 
+recall score: 0.6973 
+precision score: 0.6878 
+f1 score: 0.6908 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6821 
+recall score: 0.7108 
+precision score: 0.6875 
+f1 score: 0.6977 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6761 
+recall score: 0.7297 
+precision score: 0.6734 
+f1 score: 0.6991 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6809 
+recall score: 0.7108 
+precision score: 0.6848 
+f1 score: 0.6969 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6796 
+recall score: 0.7297 
+precision score: 0.6769 
+f1 score: 0.7018 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6781 
+recall score: 0.7234 
+precision score: 0.6775 
+f1 score: 0.6984 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6866 
+recall score: 0.7190 
+precision score: 0.6899 
+f1 score: 0.7027 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6771 
+recall score: 0.7093 
+precision score: 0.6816 
+f1 score: 0.6937 
+
+---------------------------------------
+ Training a arquitetura: 12 sgd adaptative learning-rate with momentum=0.5 lear_init =0.1 nesterovs = True 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.6642 
+recall score: 0.7016 
+precision score: 0.6695 
+f1 score: 0.6830 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6761 
+recall score: 0.6823 
+precision score: 0.6885 
+f1 score: 0.6849 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.6771 
+recall score: 0.6910 
+precision score: 0.6869 
+f1 score: 0.6884 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.6786 
+recall score: 0.7181 
+precision score: 0.6788 
+f1 score: 0.6976 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6744 
+recall score: 0.7243 
+precision score: 0.6718 
+f1 score: 0.6967 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6796 
+recall score: 0.6987 
+precision score: 0.6878 
+f1 score: 0.6924 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.6804 
+recall score: 0.7210 
+precision score: 0.6813 
+f1 score: 0.6997 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6732 
+recall score: 0.6987 
+precision score: 0.6794 
+f1 score: 0.6881 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6759 
+recall score: 0.6920 
+precision score: 0.6850 
+f1 score: 0.6878 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6764 
+recall score: 0.6896 
+precision score: 0.6867 
+f1 score: 0.6874 
+
+---------------------------------------
+ Training a arquitetura: 13 sgd invscaling learning-rate with momentum=0.7 lear_init =0.25 nesterovs = True 
+
+Erro médio de validação cruzada com 1 HN 
+accuracy score: 0.5140 
+recall score: 0.9952 
+precision score: 0.5150 
+f1 score: 0.6788 
+
+Erro médio de validação cruzada com 2 HN 
+accuracy score: 0.6519 
+recall score: 0.6277 
+precision score: 0.6765 
+f1 score: 0.6482 
+
+Erro médio de validação cruzada com 3 HN 
+accuracy score: 0.5247 
+recall score: 0.4555 
+precision score: 0.5479 
+f1 score: 0.4970 
+
+Erro médio de validação cruzada com 4 HN 
+accuracy score: 0.5472 
+recall score: 0.8520 
+precision score: 0.5387 
+f1 score: 0.6598 
+
+Erro médio de validação cruzada com 5 HN 
+accuracy score: 0.6390 
+recall score: 0.7249 
+precision score: 0.6316 
+f1 score: 0.6744 
+
+Erro médio de validação cruzada com 6 HN 
+accuracy score: 0.6305 
+recall score: 0.6770 
+precision score: 0.6336 
+f1 score: 0.6539 
+
+Erro médio de validação cruzada com 7 HN 
+accuracy score: 0.5821 
+recall score: 0.7345 
+precision score: 0.5751 
+f1 score: 0.6440 
+
+Erro médio de validação cruzada com 8 HN 
+accuracy score: 0.6465 
+recall score: 0.7254 
+precision score: 0.6396 
+f1 score: 0.6793 
+
+Erro médio de validação cruzada com 9 HN 
+accuracy score: 0.6163 
+recall score: 0.7814 
+precision score: 0.5989 
+f1 score: 0.6776 
+
+Erro médio de validação cruzada com 10 HN 
+accuracy score: 0.6205 
+recall score: 0.7703 
+precision score: 0.6051 
+f1 score: 0.6770 
+
